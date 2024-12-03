@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Baked Chicken",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 12.99,
+    "rating": 4.5,
+    "image": "baked_chicken.jpg"
+  },
+  {
+    "name": "Hamburger",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 10.99,
+    "rating": 4.0,
+    "image": "hamburger.jpg"
+  },
+{
+    name: "img4",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    price: 14.99,
+    rating: 4.0,
+    image: "img4.jpg"
+  }
+]
